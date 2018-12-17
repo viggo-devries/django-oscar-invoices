@@ -32,10 +32,10 @@ setup(
     ],
     install_requires=[
         'phonenumbers',
-        'pillow==5.0.0',
-        'django>=1.11,<2.2',
+        'pillow',
+        'django',
         'django-oscar>=1.6',
-        'django-phonenumber-field>=2.0,<2.1',
+        'django-phonenumber-field>=2.0',
     ],
     extras_require={
         'test': test_requires,
