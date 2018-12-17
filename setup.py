@@ -8,7 +8,7 @@ test_requires = [
 
 setup(
     name='django-oscar-invoices',
-    version='0.1.1',
+    version='0.1.5',
     url='https://github.com/oscaro/django-oscar-invoices',
     author='Metaclass Team',
     author_email='sasha@metaclass.co',
