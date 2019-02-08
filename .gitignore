@@ -1,10 +1,13 @@
 *.pyc
+*.egg-info
 db.sqlite3
 
 media/
 documents/  # Folder with invoices
 
-# PyCharm files
+# ide
 .idea/
 
+# testing
 .pytest_cache/
+.tox/*
